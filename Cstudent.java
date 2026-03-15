@@ -10,6 +10,7 @@ class Cstudent{
     System.out.println(" rollno :" + rollno);
     }
   public static void main(String args[] ){
+    System.out.println("Welcome to Java Program");
      Cstudent[]Cstudent = new Cstudent[3];
      Cstudent[0] = new Cstudent("Aman", 25);
      Cstudent[1] = new Cstudent("Rohit", 24);   
